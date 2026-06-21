@@ -58,11 +58,11 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **Curadobia · Sales Chatbot** | Fashion consultant chatbot with Mistral-7B fine-tuning + RAG for personalized catalog recommendations | Python, Mistral-7B, RAG |
-| **Vivo · Inventory Sync System** | Fault-tolerant AWS architecture syncing SAP ECC with e-commerce, handling traffic spikes across multi-AZ | Go, Terraform, AWS |
-| **Bank of America · Trading Agent** | Multi-asset portfolio manager using Deep RL (PPO), outperforming traditional allocations in volatile markets | PyTorch, PPO |
-| **Atvos · Computer Vision** | Weed-detection model for large-scale plantations, enabling precision input application | TensorFlow, CV |
-| **Vale S.A. · Supply Chain Optimization** | Graph-theory algorithm to remove bottlenecks in ore transport logistics | Java, Graph Theory |
+| [**Curadobia · Sales Chatbot**](https://github.com/InteliProjects/2025-2A-T07-CC11-G01) | Fashion consultant chatbot with Mistral-7B fine-tuning + RAG for personalized catalog recommendations | Python, Mistral-7B, RAG |
+| [**Vivo · Inventory Sync System**](https://github.com/InteliProjects/2024-2A-T07-CC07-G04) | Fault-tolerant AWS architecture syncing SAP ECC with e-commerce, handling traffic spikes across multi-AZ | Go, Terraform, AWS |
+| [**Bank of America · Trading Agent**](https://github.com/InteliProjects/2025-1B-T07-CC10-G01) | Multi-asset portfolio manager using Deep RL (PPO), outperforming traditional allocations in volatile markets | PyTorch, PPO |
+| [**Atvos · Computer Vision**](https://github.com/InteliProjects/2025-1A-T07-CC09-G03) | Weed-detection model for large-scale plantations, enabling precision input application | TensorFlow, CV |
+| [**Vale S.A. · Supply Chain Optimization**](https://github.com/InteliProjects/2024-T0007-CC05-G03) | Graph-theory algorithm to remove bottlenecks in ore transport logistics | Java, Graph Theory |
 
 ---
 
